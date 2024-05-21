@@ -1,0 +1,49 @@
+Adding a New Blog Post
+
+-	Login
+-	Click Posts on the left
+-	Click Add New
+-	Enter the blog title and content
+-	Set the featured image, this is on the right column, at the bottom
+-	Set the categories, this is in the right column. You can also add new categories here
+-	Click Publish
+
+Upload PDFs
+
+Two ways of doing this:
+
+Option 1
+
+-	Click media from the left menu
+-	Drag and drop the pdf into the browser window.
+-	Now click the pdf you have uploaded in the media library
+-	Copy the url to clipboard
+-	Use this link wherever you need
+
+Option 2
+
+-	Click dFlip Books from the left menu
+-	Click add new book
+-	Give it a title
+-	Click Select PDF
+-	Drag and drop the PDF to upload
+-	Click Publish
+-	Now, in the top right you will see shortcode. Click Embed, and then copy the shortcode, it should look something like this:
+[dflip id="265" ][/dflip]
+-	Now you can add this to a new page
+-	Go to Pages
+-	Add New
+-	Give the page a title
+-	Paste the shortcode into the content box and click publish
+-	Once done, you can click View page. You can then copy and paste the url to use wherever you need
+
+Add Pages to the Menu
+
+-	Click Appearance on the left menu
+-	Then Menus
+-	On the left, you will see pages. By default it shows the most recent
+-	Tick the page you want to add to the menu
+-	Click Add to menu
+-	You can drag the page into which position you want in the menu
+-	You can also click the little arrow on the menu item and change the Navigation Label
+-	Once done, click Save Menu
